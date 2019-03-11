@@ -1,0 +1,51 @@
+/* CAROUSEL DESCRIPTION FORMATTING */
+
+.description_carousel h3 {
+	font-size: 16px;
+	color: cyan;
+}
+
+.description_carousel p {
+	font-size: 14px;
+	color: cyan;
+}
+
+@media screen and (min-width: 480px) and (max-width: 540px) {
+	.description_carousel h3 {
+		font-size: 11px;
+		
+	}
+}	
+
+@media screen and (min-width: 480px) and (max-width: 540px) {
+	.description_carousel p {
+		font-size: 10px;
+	
+	}
+}
+
+@media screen and (min-width: 0px) and (max-width: 479px) {
+	.description_carousel h3 {
+		font-size: 7px;
+		
+	}
+}	
+
+@media screen and (min-width: 0px) and (max-width: 479px) {
+	.description_carousel p {
+		font-size: 6px;
+	
+	}
+}
+
+/* END CAROUSEL DESCRIPTION FORMATTING */
+
+/* TEXT DESCRIPTION FORMATTING */
+
+.what_is_vipassana p{
+	float: left;
+	
+}
+
+/* END OF TEXT DESCRIPTION FORMATTING /*
+
